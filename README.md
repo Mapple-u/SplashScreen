@@ -1,17 +1,9 @@
-# project_ol
+Hasil dari flutter
 
-A new Flutter project.
+Splash Screen
 
-## Getting Started
+![screenshot_output](assets/icons/app/screenshoot/SplashScreen.png)
 
-This project is a starting point for a Flutter application.
+Onboarding Screen
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot_output](assets/icons/app/screenshoot/OnboardingScreen.png)
